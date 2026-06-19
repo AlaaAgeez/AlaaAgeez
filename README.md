@@ -101,8 +101,8 @@ Banking system for managing clients, accounts, transactions, and permissions.
 
 ## 🔗 Links
 
-- LinkedIn: :contentReference[oaicite:0]{index=0}  
-- GitHub: :contentReference[oaicite:1]{index=1}  
+- LinkedIn: :www.linkedin.com/in/alaaageez
+- GitHub: :[contentReference[oaicite:1]{index=1}](https://github.com/AlaaAgeez)  
 - Email: alaamohamedageez@gmail.com  
 
 ---
