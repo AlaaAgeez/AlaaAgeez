@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Alaa Mohamed Ageez - Backend Developer</title>
-</head>
-
 <body>
 
 <h1>👨‍💻 Alaa Mohamed Ageez</h1>
@@ -129,7 +122,7 @@ I focus on writing clean, maintainable, and production-ready code using modern b
 <ul>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/alaaageez" target="_blank">linkedin.com/in/alaaageez</a></li>
   <li>GitHub: <a href="https://github.com/AlaaAgeez" target="_blank">github.com/AlaaAgeez</a></li>
-  <li>Email: <b>alaamohamedageez@gmail.com</b></li>
+<li>Email: <a href="mailto:alaamohamedageez@gmail.com"><b>alaamohamedageez@gmail.com</b></a></li>
 </ul>
 
 <hr/>
