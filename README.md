@@ -122,8 +122,11 @@ I focus on writing clean, maintainable, and production-ready code using modern b
 <ul>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/alaaageez" target="_blank">linkedin.com/in/alaaageez</a></li>
   <li>GitHub: <a href="https://github.com/AlaaAgeez" target="_blank">github.com/AlaaAgeez</a></li>
-<li>Email: <a href="mailto:alaamohamedageez@gmail.com"><b>alaamohamedageez@gmail.com</b></a></li>
-</ul>
+<li>Email: 
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alaamohamedageez@gmail.com" target="_blank">
+    <b>alaamohamedageez@gmail.com</b>
+  </a>
+</li></ul>
 
 <hr/>
 
