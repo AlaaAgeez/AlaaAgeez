@@ -102,7 +102,7 @@ Banking system for managing clients, accounts, transactions, and permissions.
 ## 🔗 Links
 
 - LinkedIn: :www.linkedin.com/in/alaaageez
-- GitHub: :[contentReference[oaicite:1]{index=1}](https://github.com/AlaaAgeez)  
+- GitHub: :https://github.com/AlaaAgeez
 - Email: alaamohamedageez@gmail.com  
 
 ---
