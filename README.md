@@ -1,1 +1,105 @@
-<h1>👨‍💻 Alaa Mohamed Ageez</h1> <h2>Backend Developer (.NET)</h2> <hr/> <h2>👋 About Me</h2> <p> Backend Developer specializing in building scalable web APIs using ASP.NET Core and .NET ecosystem. </p> <p> Fresh graduate with strong hands-on experience in backend systems, clean architecture, and enterprise-style projects. </p> <p> I focus on writing clean, maintainable, and production-ready code using modern backend practices. </p> <hr/> <h2>🧠 Skills Overview (Honest Assessment)</h2> <ul> <li>ASP.NET Core Web API: <b>Good</b></li> <li>Entity Framework Core: <b>Good</b></li> <li>SQL Server: <b>Good</b></li> <li>Authentication (JWT / Identity): <b>Good</b></li> <li>Clean Architecture: <b>Good</b></li> <li>C#: <b>Good</b></li> <li>C++: <b>Good (OOP + System Design Basics)</b></li> <li>LINQ: <b>Good</b></li> <li>ADO.NET: <b>Good</b></li> <li>Swagger / API Documentation: <b>Good</b></li> <li>Git / GitHub: <b>Good</b></li> <li>Repository Pattern + Unit of Work: <b>Good</b></li> <li>SOLID Principles: <b>Good understanding</b></li> <li>FluentValidation: <b>Good</b></li> <li>Dependency Injection: <b>Good</b></li> <li>DTO Design: <b>Good</b></li> <li>Rate Limiting: <b>Basic – Good</b></li> <li>Redis Caching: <b>Basic – Good</b></li> <li>Exception Handling & Logging: <b>Good</b></li> </ul> <hr/> <h2>🚀 Projects</h2> <h3>1. Training Center Management System</h3> <p><b>Type:</b> Web API System</p> <p><b>Description:</b> Backend system for managing students, courses, and training operations.</p> <p><b>Tech Stack:</b></p> <ul> <li>ASP.NET Core Web API</li> <li>Entity Framework Core</li> <li>SQL Server</li> <li>JWT Authentication</li> <li>FluentValidation</li> <li>DTO Pattern</li> <li>Rate Limiting</li> <li>Redis Caching</li> <li>Exception Handling</li> <li>SOLID Principles</li> <li>Repository Pattern + Unit of Work</li> </ul> <p><b>Status:</b> Completed</p> <hr/> <h3>2. DVLD Management System</h3> <p><b>Type:</b> Desktop Application (Windows Forms)</p> <p><b>Description:</b> System for managing Driving License & Vehicle Department operations.</p> <p><b>Tech Stack:</b></p> <ul> <li>C# (.NET Windows Forms)</li> <li>ADO.NET</li> <li>SQL Server</li> <li>3-Layer Architecture (Presentation / Business / Data Access)</li> <li>SQL Transactions</li> <li>Logging & Monitoring</li> <li>SOLID Principles</li> <li>Delegates & Events</li> </ul> <p><b>Status:</b> Completed</p> <hr/> <h3>3. Bank Management System</h3> <p><b>Type:</b> Console Application</p> <p><b>Description:</b> Banking system for managing clients, accounts, transactions, and permissions.</p> <p><b>Tech Stack:</b></p> <ul> <li>C++ (OOP)</li> <li>File I/O (Data Persistence)</li> <li>Data Structures</li> <li>Security (Password Encryption, Login Lockout)</li> <li>Access Control System</li> <li>Logging / Audit Trail</li> <li>Templates, Abstraction, Interfaces</li> </ul> <p><b>Status:</b> Completed</p> <hr/> <h2>🔗 Links</h2> <ul> <li>LinkedIn: <a href="https://www.linkedin.com/in/alaaageez" target="_blank">linkedin.com/in/alaaageez</a></li> <li>GitHub: <a href="https://github.com/AlaaAgeez" target="_blank">github.com/AlaaAgeez</a></li> <li>Email: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alaamohamedageez@gmail.com" target="_blank"> <b>alaamohamedageez@gmail.com</b> </a> </li></ul> <hr/> <h2>🎯 Focus</h2> <p> Backend development using .NET ecosystem, system design fundamentals, and building real-world scalable applications. </p> </body> </html>
+<h1>👨‍💻 Alaa Mohamed Ageez</h1>
+<h2>Backend Developer (.NET)</h2>
+<hr/>
+<h2>👋 About Me</h2>
+<p>
+  Backend Developer specializing in building scalable web APIs using ASP.NET Core and .NET ecosystem.
+</p>
+<p>
+  Fresh graduate with strong hands-on experience in backend systems, clean architecture, and enterprise-style projects.
+</p>
+<p>
+  I focus on writing clean, maintainable, and production-ready code using modern backend practices.
+</p>
+<hr/>
+<h2>🧠 Skills Overview (Honest Assessment)</h2>
+<ul>
+  <li>ASP.NET Core Web API: <b>Good</b></li>
+  <li>Entity Framework Core: <b>Good</b></li>
+  <li>SQL Server: <b>Good</b></li>
+  <li>Authentication (JWT / Identity): <b>Good</b></li>
+  <li>Clean Architecture: <b>Good</b></li>
+  <li>C#: <b>Good</b></li>
+  <li>C++: <b>Good (OOP + System Design Basics)</b></li>
+  <li>LINQ: <b>Good</b></li>
+  <li>ADO.NET: <b>Good</b></li>
+  <li>Swagger / API Documentation: <b>Good</b></li>
+  <li>Git / GitHub: <b>Good</b></li>
+  <li>Repository Pattern + Unit of Work: <b>Good</b></li>
+  <li>SOLID Principles: <b>Good understanding</b></li>
+  <li>FluentValidation: <b>Good</b></li>
+  <li>Dependency Injection: <b>Good</b></li>
+  <li>DTO Design: <b>Good</b></li>
+  <li>Rate Limiting: <b>Basic – Good</b></li>
+  <li>Redis Caching: <b>Basic – Good</b></li>
+  <li>Exception Handling & Logging: <b>Good</b></li>
+</ul>
+<hr/>
+<h2>🚀 Projects</h2>
+<h3>1. Training Center Management System</h3>
+<p><b>Type:</b> Web API System</p>
+<p><b>Description:</b> Backend system for managing students, courses, and training operations.</p>
+<p><b>Tech Stack:</b></p>
+<ul>
+  <li>ASP.NET Core Web API</li>
+  <li>Entity Framework Core</li>
+  <li>SQL Server</li>
+  <li>JWT Authentication</li>
+  <li>FluentValidation</li>
+  <li>DTO Pattern</li>
+  <li>Rate Limiting</li>
+  <li>Redis Caching</li>
+  <li>Exception Handling</li>
+  <li>SOLID Principles</li>
+  <li>Repository Pattern + Unit of Work</li>
+</ul>
+<p><b>Status:</b> Completed</p>
+<hr/>
+<h3>2. DVLD Management System</h3>
+<p><b>Type:</b> Desktop Application (Windows Forms)</p>
+<p><b>Description:</b> System for managing Driving License & Vehicle Department operations.</p>
+<p><b>Tech Stack:</b></p>
+<ul>
+  <li>C# (.NET Windows Forms)</li>
+  <li>ADO.NET</li>
+  <li>SQL Server</li>
+  <li>3-Layer Architecture (Presentation / Business / Data Access)</li>
+  <li>SQL Transactions</li>
+  <li>Logging & Monitoring</li>
+  <li>SOLID Principles</li>
+  <li>Delegates & Events</li>
+</ul>
+<p><b>Status:</b> Completed</p>
+<hr/>
+<h3>3. Bank Management System</h3>
+<p><b>Type:</b> Console Application</p>
+<p><b>Description:</b> Banking system for managing clients, accounts, transactions, and permissions.</p>
+<p><b>Tech Stack:</b></p>
+<ul>
+  <li>C++ (OOP)</li>
+  <li>File I/O (Data Persistence)</li>
+  <li>Data Structures</li>
+  <li>Security (Password Encryption, Login Lockout)</li>
+  <li>Access Control System</li>
+  <li>Logging / Audit Trail</li>
+  <li>Templates, Abstraction, Interfaces</li>
+</ul>
+<p><b>Status:</b> Completed</p>
+<hr/>
+<h2>🔗 Links</h2>
+<ul>
+  <li>Portfolio: <a href="https://alaaageezportfolio.netlify.app/" target="_blank">alaaageezportfolio.netlify.app</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/alaaageez" target="_blank">linkedin.com/in/alaaageez</a></li>
+  <li>GitHub: <a href="https://github.com/AlaaAgeez" target="_blank">github.com/AlaaAgeez</a></li>
+  <li>
+    Email:
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alaamohamedageez@gmail.com" target="_blank">
+      <b>alaamohamedageez@gmail.com</b>
+    </a>
+  </li>
+</ul>
+<hr/>
+<h2>🎯 Focus</h2>
+<p>
+  Backend development using .NET ecosystem, system design fundamentals, and building real-world scalable applications.
+</p>
